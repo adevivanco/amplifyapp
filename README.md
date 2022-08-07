@@ -1,4 +1,4 @@
-# Getting Started with Create React App POC
+# Getting Started with Create React App P.O.C.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
